@@ -19,5 +19,6 @@ https://github.com/user-attachments/assets/1450ee1d-06c8-4b4f-9853-6c9a5d280ed8
 ## TODOs
 
 - Implement blurred content.
-- Implement shadow.
+- Shadow and light direction.
+- Water droplet effect between multiple glasses. Using SDF?
 - Configurable parameters(size, radius, lightDirection, et).
